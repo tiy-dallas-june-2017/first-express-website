@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tiy-dallas-june-2017/first-express-website/issues"
   },
-  "homepage": "https://github.com/tiy-dallas-june-2017/first-express-website#readme"
+  "homepage": "https://github.com/tiy-dallas-june-2017/first-express-website#readme",
+  "dependencies": {
+    "chalk": "^2.0.1"
+  }
 }
